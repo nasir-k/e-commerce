@@ -274,7 +274,8 @@ ul{
         margin-bottom: 10px;
     }
     nav ul li a{
-        color: #fff;
+        color: darkblue;
+        text-decoration: underline;
     }
     .menu{
         display: block;
